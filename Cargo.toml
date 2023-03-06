@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+  "match-engine", "common-model" 
+]
